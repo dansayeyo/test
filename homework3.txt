@@ -1,0 +1,9 @@
+Top 3 things I learn about non graphical editor
+1.more traditional
+2.designer oriented
+3.intermodal vim
+
+
+Top things I learn about graphical editor
+1.more marcos, can map redo/undo cmd
+2.editors are as good as the numbers of plugins they have
